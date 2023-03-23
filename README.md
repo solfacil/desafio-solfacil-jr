@@ -63,7 +63,7 @@ Exemplo:
 - Nesta mesma API e implemente um endpoint de consulta SQL para recuperar as 5 usinas de maior capacidade. 
 Exemplo:
 ```
-[GET] http://solarium.solfacil.com/top-capcaity-plants
+[GET] http://solarium.solfacil.com/top-capacity-plants
 ```
 
 ### Endpoints
