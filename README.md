@@ -112,5 +112,10 @@ Exemplo:
 ### Adicionais
 
 - Validações adicionais para a criação dos registros, como cnpj, email e afins;
+- Utilizar API externa para validar o CEP (https://viacep.com.br/) (Exemplo de chamada: https://viacep.com.br/ws/01001000/json/)
 - Documentação das funções públicas;
 - Testes unitários;
+
+### Bonus
+- Interface simples em HTML
+- Teste de integração
